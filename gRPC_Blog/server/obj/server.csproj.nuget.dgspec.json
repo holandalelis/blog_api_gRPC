@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\server\\server.csproj": {}
+    "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\server\\server.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\server\\server.csproj": {
+    "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\server\\server.csproj",
+        "projectUniqueName": "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\server\\server.csproj",
+        "projectPath": "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\server\\server.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\server\\obj\\",
+        "outputPath": "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

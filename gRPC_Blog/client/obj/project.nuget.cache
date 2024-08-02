@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUcqpPYF9bg=",
+  "dgSpecHash": "NeqVFTItx5w=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\gRPC_Blog\\gRPC_Blog\\client\\client.csproj",
+  "projectFilePath": "C:\\Projects\\blog_grpc\\blog_api_gRPC\\gRPC_Blog\\client\\client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
